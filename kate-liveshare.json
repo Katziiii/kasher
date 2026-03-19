@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Authors": [{"Email": "", "Name": "LiveShare Plugin"}],
+        "Category": "Editor Features",
+        "Description": "Real-time collaborative editing, inspired by VS Code Live Share",
+        "EnabledByDefault": false,
+        "Id": "kateplugin_liveshare",
+        "License": "MIT",
+        "MimeTypes": [],
+        "Name": "Live Share",
+        "Version": "1.0.0"
+    }
+}
